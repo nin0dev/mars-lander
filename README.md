@@ -1,1 +1,1 @@
-# mars-lander-2
+# mars-lander
